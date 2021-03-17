@@ -1,0 +1,35 @@
+*{
+	font-family: Arial;
+	font-size: 14px;
+	margin: 0;
+	padding: 0；
+	border:none;
+}
+a{
+	text-decoration: none;
+}
+ul{
+	list-style: none;
+}
+header{
+	height: 80px;
+	background: #000;
+}
+header .container{
+	width: 1200px;
+	margin: 0 auto;
+}
+header .container a{
+	display: block;
+	float: left;
+	margin: 5px 25px;
+}
+header .container nav{
+	float: right;
+}
+header .container nav a {
+	font-size: 24px;
+	display: block;
+	width: 110px;
+	height: 73px;
+}
